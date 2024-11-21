@@ -1,6 +1,6 @@
 # 🚀 Hey, I’m Varun Singh!  
 🌟 *Turning caffeine into code, one bug at a time.*  
-📍 *Hyderabad, India | Building the web, living the dream.*  
+📍 *India | Building the web, living the dream.*  
 
 ---
 
