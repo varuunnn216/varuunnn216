@@ -8,7 +8,7 @@
 - 🏢 **Associate Software Engineer** @ **Accenture**  
 - 🧠 *Tech nerd who loves making things that people actually use.*  
 - 💻 *Frontend ninja, backend wrangler, full-stack vibe.*  
-- ☕ **Powered by:** coffee + a dash of ghee (*try it, seriously*).  
+- ☕ **Powered by:** coffee.  
 
 ---
 
