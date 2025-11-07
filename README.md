@@ -79,7 +79,7 @@ I enjoy solving real-world challenges through **clean architecture, automation, 
   <a href="mailto:the.varun216@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/varuunnn216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/varuunnn216"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://varun-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
