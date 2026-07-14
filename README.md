@@ -4,7 +4,7 @@
 
 ### Software Developer @ Accenture · Building Distributed Systems & Full-Stack Apps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+React+%2B+Node+%2B+Python;Building+a+Distributed+API+Gateway+%26+Rate+Limiter;Exploring+System+Design+%2B+Infrastructure;Open+to+Remote-First+Opportunities+🌍" alt="Typing SVG" />
+*Full Stack Developer — React + Node + Python · Currently building a Distributed API Gateway & Rate Limiter · Exploring System Design & Infra · Open to Remote-First Opportunities 🌍*
 
 </div>
 
@@ -38,105 +38,50 @@ I'm a **Software Developer at Accenture** in Hyderabad, working on scalable web 
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,fastapi,postgres,redis,docker,aws,gitlab,git,html,css,tailwind&theme=dark" />
 </p>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+**Frontend** &nbsp; React.js · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS
 
-**Frontend**
-```
-React.js · TypeScript · JavaScript (ES6+)
-HTML5 · CSS3 · TailwindCSS
-```
+**Backend** &nbsp; Node.js · Express.js · Python (FastAPI) · REST APIs · Microservices
 
-**Backend**
-```
-Node.js · Express.js · Python (FastAPI)
-REST APIs · Microservices
-```
+**Data & Infra** &nbsp; PostgreSQL · Redis · Docker · AWS · GitLab CI/CD
 
-</td>
-<td valign="top" width="50%">
-
-**Data & Infra**
-```
-PostgreSQL · Redis
-Docker · AWS · GitLab CI/CD
-```
-
-**Core CS**
-```
-Data Structures & Algorithms
-System Design · Distributed Systems · OOP
-```
-
-</td>
-</tr>
-</table>
+**Core CS** &nbsp; Data Structures & Algorithms · System Design · Distributed Systems · OOP
 
 ---
 
 ### 💼 Experience
 
-<table>
-<tr>
-<td valign="top">🏢</td>
-<td>
+**Software Developer** · Accenture Solutions Pvt Ltd
+`Hyderabad` · *2024 – Present*
 
-**Software Developer — Accenture Solutions Pvt Ltd** · Hyderabad · *2024 – Present*
-- Building and maintaining full-stack applications on a React / Node.js / Python stack
-- Working across API design, performance optimization, and CI/CD automation with GitLab pipelines
-- Contributing within Agile teams delivering features for enterprise-scale systems
-
-</td>
-</tr>
-</table>
+> - Building and maintaining full-stack applications on a React / Node.js / Python stack
+> - Working across API design, performance optimization, and CI/CD automation with GitLab pipelines
+> - Contributing within Agile teams delivering features for enterprise-scale systems
 
 ---
 
 ### 🔥 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**⚡ Distributed API Gateway & Rate Limiter**
-
+#### ⚡ Distributed API Gateway & Rate Limiter
 Real-time dashboard for a distributed rate limiter and API gateway — token-bucket/sliding-window algorithms, live traffic visualization, and horizontally scalable design.
+<br>![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express) ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript) ![Redis](https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-333?style=flat-square&logo=gitlab)
 
-`Node.js` `Express` `FastAPI` `React` `TypeScript` `Redis` `PostgreSQL` `Docker` `GitLab CI/CD`
+<br>
 
-</td>
-<td width="50%" valign="top">
-
-**🧪 Scientific Compound Data Explorer**
-
+#### 🧪 Scientific Compound Data Explorer
 A searchable, visual explorer for scientific compound data with interactive D3.js visualizations backed by a FastAPI service layer.
+<br>![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql) ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript) ![D3.js](https://img.shields.io/badge/-D3.js-333?style=flat-square&logo=d3dotjs)
 
-`FastAPI` `PostgreSQL` `React` `TypeScript` `D3.js`
+<br>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔗 URL Shortener**
-
+#### 🔗 URL Shortener
 Lightweight, high-performance URL shortener with a CLI interface.
+<br>![Rust](https://img.shields.io/badge/-Rust-333?style=flat-square&logo=rust) ![Warp](https://img.shields.io/badge/-Warp-333?style=flat-square) ![CLI](https://img.shields.io/badge/-CLI-333?style=flat-square&logo=gnubash)
 
-`Rust` `Warp` `CLI`
+<br>
 
-</td>
-<td width="50%" valign="top">
-
-**🚗 Self-Driving RC Car**
-
+#### 🚗 Self-Driving RC Car
 Autonomous IoT vehicle using computer vision for real-time navigation.
-
-`Python` `OpenCV` `Raspberry Pi` `IoT`
-
-</td>
-</tr>
-</table>
+<br>![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python) ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat-square&logo=raspberrypi) ![IoT](https://img.shields.io/badge/-IoT-333?style=flat-square)
 
 🧭 More on my profile 👉 [**View All Repositories**](https://github.com/varuunnn216?tab=repositories)
 
@@ -156,16 +101,16 @@ Autonomous IoT vehicle using computer vision for real-time navigation.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=varuunnn216&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuunnn216&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=varuunnn216&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF&icon_color=00D9FF&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuunnn216&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuunnn216&theme=react&background=0D1117&border=00000000&ring=00D9FF&fire=00D9FF" />
+  <img src="https://streak-stats.demolab.com/?user=varuunnn216&theme=react&background=0D1117&border=00000000&ring=00D9FF&fire=00D9FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuunnn216&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuunnn216&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&cache_seconds=86400" />
 </p>
 
 ---
