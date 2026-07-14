@@ -94,15 +94,6 @@ Give my repos a **star** 🌟 or connect on [**LinkedIn**](https://linkedin.com/
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varuunnn216&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuunnn216&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
 ### ⚡ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuunnn216&theme=react-dark&bg_color=0D1117&color=E50914&line=6A00FF&point=FF3366" />
