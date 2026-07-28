@@ -98,23 +98,6 @@ Autonomous IoT vehicle using computer vision for real-time navigation.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=varuunnn216&show_icons=true&bg_color=0D1117&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuunnn216&layout=compact&bg_color=0D1117&hide_border=true&title_color=00D9FF&text_color=c9d1d9&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varuunnn216&theme=react&background=0D1117&border=00000000&ring=00D9FF&fire=00D9FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuunnn216&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&cache_seconds=86400" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
