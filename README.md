@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Varun Singh
+# Hey, I'm Varun Singh
 
 ### Software Developer @ Accenture · Building Distributed Systems & Full-Stack Apps
 
