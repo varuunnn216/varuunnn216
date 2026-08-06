@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Varun Singh
+# Hi, I'm Varun Singh 👋
 
-### Software Developer @ Accenture · Building Distributed Systems & Full-Stack Apps
+### Software Developer @ Accenture · Full-Stack & Distributed Systems
 
-*Full Stack Developer — React + Node + Python · Currently building a Distributed API Gateway & Rate Limiter · Exploring System Design & Infra · Open to Remote-First Opportunities 🌍*
+*React · Node.js · Python (FastAPI) — building backend infra, exploring system design, and shipping side projects on the way to a remote-first role* 🌍
 
 </div>
 
@@ -22,13 +22,14 @@
 
 ### 🚀 About Me
 
-I'm a **Software Developer at Accenture** in Hyderabad, working on scalable web systems and always building something on the side. Right now I'm deep in **infrastructure and distributed systems** — designing rate limiters, gateways, and backend services that need to hold up under real load, not just look good in a demo.
+I'm a **Software Developer at Accenture Solutions** in Hyderabad, working across the full stack and increasingly pulled toward **infrastructure and distributed systems** — rate limiters, gateways, and backend services designed to hold up under real load.
 
-- 🔭 Currently building a **Real-Time Distributed API Gateway & Rate Limiter Dashboard**
-- 🌱 Sharpening **DSA fundamentals** (NeetCode) and **system design**
+- 🔭 Building a **Real-Time Distributed API Gateway & Rate Limiter Dashboard**
+- 🧰 Sketching out an **ATS Resume Tailor** app — upload a resume + job description, get back a tailored, editable, ATS-friendly resume
+- 🌱 Sharpening **DSA fundamentals** in Python (NeetCode) and studying **system design**
 - 🤝 Contributing to **open source at GitLab**
 - 🎯 Targeting remote-first infra/product companies — **Akamai, GitLab, Cloudflare, Razorpay, CRED, Automattic**
-- ⚡ Fun fact: I also dabble in Vedic astrology and agri-tech side projects — variety keeps the brain sharp
+- ⚡ Outside of code: Vedic astrology, agri-tech side projects, and the gym
 
 ---
 
@@ -62,7 +63,7 @@ I'm a **Software Developer at Accenture** in Hyderabad, working on scalable web 
 ### 🔥 Featured Projects
 
 #### ⚡ Distributed API Gateway & Rate Limiter
-Real-time dashboard for a distributed rate limiter and API gateway — token-bucket/sliding-window algorithms, live traffic visualization, and horizontally scalable design.
+Real-time dashboard for a distributed rate limiter and API gateway — token-bucket/sliding-window algorithms, live traffic visualization, and a horizontally scalable design.
 <br>![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express) ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript) ![Redis](https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-333?style=flat-square&logo=gitlab)
 
 <br>
