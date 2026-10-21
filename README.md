@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=200&section=header&text=Varun%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Backend%20Infra%20%C2%B7%20Distributed%20Systems&descSize=18&descAlignY=60" alt="Varun Singh" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=200&section=header&text=Varun%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%26%20LLM%20Apps%20%C2%B7%20RAG%20%C2%B7%20Distributed%20Systems&descSize=18&descAlignY=60" alt="Varun Singh" width="100%" />
 
-**Software Developer @ Accenture · Hyderabad**
-*React · TypeScript · Node.js · Python (FastAPI) — building backend infra, going deep on system design, and shipping projects on the way to a remote-first role* 🌍
+**Software Developer @ Accenture · Hyderabad**<br>
+*React · TypeScript · Node.js · Python (FastAPI) · RAG & LLM apps — building full-stack products and AI-powered backends, going deep on system design, on the way to a remote-first role* 🌍
 
 <p>
   <a href="https://varun-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
@@ -11,8 +11,6 @@
   <a href="mailto:the.varun216@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/varuunnn216"><img src="https://img.shields.io/github/followers/varuunnn216?style=for-the-badge&logo=github&label=Followers&color=0D1117&labelColor=00D9FF" alt="GitHub Followers" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=varuunnn216&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
