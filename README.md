@@ -36,10 +36,6 @@ I'm a software developer with **3+ years** of experience across the full stack, 
 
 ## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,fastapi,postgres,redis,docker,aws,gitlab,git,html,css,tailwind&theme=dark" alt="Tech stack icons" />
-</p>
-
 | Layer | Tools |
 |---|---|
 | **Frontend** | React · TypeScript · JavaScript (ES6+) · Angular (day-to-day work) · HTML5 · CSS3 · TailwindCSS |
