@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=200&section=header&text=Varun%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%26%20LLM%20Apps%20%C2%B7%20RAG%20%C2%B7%20Distributed%20Systems&descSize=18&descAlignY=60" alt="Varun Singh" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00D9FF&height=200&section=header&text=Varun%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%2F%20LLM%20Apps%20%C2%B7%20RAG%20%C2%B7%20Distributed%20Systems&descSize=18&descAlignY=60" alt="Varun Singh" width="100%" />
 
 **Software Developer @ Accenture · Hyderabad**<br>
 *React · TypeScript · Node.js · Python (FastAPI) · RAG & LLM apps — building full-stack products and AI-powered backends, going deep on system design, on the way to a remote-first role* 🌍
